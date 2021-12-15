@@ -1,13 +1,14 @@
 /*
  * Copyright © 2001-2010 Stéphane Raimbault <stephane.raimbault@gmail.com>
  *
- * SPDX-License-Identifier: LGPL-2.1+
+ * SPDX-License-Identifier: LGPL-2.1-or-later
  */
 
 #ifndef MODBUS_TCP_H
 #define MODBUS_TCP_H
 
 #include "modbus.h"
+#include "modbus-tcp-server.h"
 
 MODBUS_BEGIN_DECLS
 
